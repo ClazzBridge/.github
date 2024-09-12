@@ -26,11 +26,11 @@ _예: 스터디 가입 시 예치금을 지불하고, 인증 횟수만큼 예치
 - **프로젝트 기간**: YYYY년 MM월 DD일 ~ YYYY년 MM월 DD일
 - **인원**: 5명
 - **팀원**:
-  - **강슬기** [@github](https://github.com/username1)
-  - **권준성** [@github](https://github.com/username1)
-  - **임상우** [@github](https://github.com/username2)
+  - **강슬기** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/ftfg777)
+  - **권준성** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/ftfg777)
+  - **임상우** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/ftfg777)
   - **정찬우** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/ftfg777)
-  - **최동인** [@github](https://github.com/username4)
+  - **최동인** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/ftfg777)
 
 ---
 
