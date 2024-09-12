@@ -83,6 +83,8 @@ _예: 스터디 가입 시 예치금을 지불하고, 인증 횟수만큼 예치
 
 ---
 
+<br>
+
 ## 📐 Project Design
 
 ### Architecture
@@ -95,6 +97,8 @@ _예: 스터디 가입 시 예치금을 지불하고, 인증 횟수만큼 예치
 ![ERD Diagram](링크_또는_이미지_경로)
 
 ---
+
+<br>
 
 ## 🔍 Specific Description
 
