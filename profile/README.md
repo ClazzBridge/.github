@@ -29,7 +29,7 @@ _예: 스터디 가입 시 예치금을 지불하고, 인증 횟수만큼 예치
   - **강슬기** [@github](https://github.com/username1)
   - **권준성** [@github](https://github.com/username1)
   - **임상우** [@github](https://github.com/username2)
-  - **정찬우** [@github](https://github.com/username3)
+  - **정찬우** [@github](https://github.com/ftfg777)
   - **최동인** [@github](https://github.com/username4)
 
 ---
