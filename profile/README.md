@@ -30,7 +30,7 @@ _예: 스터디 가입 시 예치금을 지불하고, 인증 횟수만큼 예치
   - **권준성** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/ftfg777)
   - **임상우** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/ftfg777)
   - **정찬우** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/ftfg777)
-  - **최동인** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/ftfg777)
+  - **최동인** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/Bulgogi-Pizza)
 
 ---
 
