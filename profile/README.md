@@ -9,8 +9,6 @@
 <br>
 
 ## 🌟 Description
-효율적인 학습을 위한 수강생과 강사의 소통 솔루션
-
 ![6](https://github.com/user-attachments/assets/99b99976-dde7-4087-bd99-9a2862d5c37f)
 
 
@@ -29,9 +27,9 @@
 - **진행 기간** : 2024.08 ~ 2024.11 (3개월)
 - **인원**: 5명
 - **팀원**:
-  - **강슬기** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/ftfg777)
-  - **권준성** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/ftfg777)
-  - **임상우** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/ftfg777)
+  - **강슬기** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/seulki-k)
+  - **권준성** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/infra-kwon)
+  - **임상우** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/tkddn0321)
   - **정찬우** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/ftfg777)
   - **최동인** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/Bulgogi-Pizza)
 
