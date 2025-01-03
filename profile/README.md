@@ -99,11 +99,9 @@
 
 ## 📐 Project Design
 
-### Architecture
 ![43](https://github.com/user-attachments/assets/5672c8ef-2404-4137-a8d1-186c725eeac9)
 
 
-### UseCase
 ![14](https://github.com/user-attachments/assets/e292a837-ad97-491e-91f6-3f4b46e789c3)
 
 
@@ -111,7 +109,6 @@
 <img width="952" alt="image" src="https://github.com/user-attachments/assets/5f53bd49-665e-40c5-855c-d21cc8a98ecc" />
 
 
-### CI/CD
 ![47](https://github.com/user-attachments/assets/d9cd5fa0-f0b3-48c5-9cc7-5cc5ad3c8e44)
 
 ---
