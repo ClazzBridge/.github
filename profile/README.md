@@ -1,8 +1,6 @@
 # 🎓 ClazzBridge
 
-### 클라우드 플랫폼(K-PaaS) 기반 서비스 개발 아이디어 공모전 출품작
-
-*목표를 함께 이루어내는 습관 스터디 게더링 플랫폼 웹사이트*
+## 클라우드 플랫폼(K-PaaS) 기반 서비스 개발 아이디어 공모전 출품작
 
 ---
 
@@ -27,6 +25,7 @@
 - **진행 기간** : 2024.08 ~ 2024.11 (3개월)
 - **인원**: 5명
 - **팀원**:
+- Common Role : FullStack & DevOps
   - **강슬기** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/seulki-k)
   - **권준성** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/infra-kwon)
   - **임상우** [![GitHub](https://img.shields.io/badge/GitHub-@github-181717?style=flat&logo=github)](https://github.com/tkddn0321)
