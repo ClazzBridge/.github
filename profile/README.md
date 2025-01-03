@@ -251,8 +251,9 @@
     - redis-client를 통한 redis 데이터 접근
     - ChatRoom:Id, ChatRoom:Id:Messages, User:Id로 redis 데이터 Key 구성
 
+<br>
 
-### CI/CD 파이프라인 구성
+# CI/CD 파이프라인 구성
 
 ![47](https://github.com/user-attachments/assets/78d493d9-7c3a-4fa8-9053-dde5f05ab474)
 
@@ -264,7 +265,9 @@
 5. SSH 키 인증과 함께 Docker Hub에 푸시된 이미지로 새 프론트엔드 컨테이너 빌드
 6. 업데이트 및 배포 완료
 
-### 리팩토링 및 디버깅
+<br>
+
+# 리팩토링 및 디버깅
 
 1. **채팅방 생성을 위한 같은 강의실 소속의 멤버와 강사, 매니저 데이터 요청 시 시간이 오래걸리는 문제 식별 (백엔드)**
     - Spring Data JPA로 MySQL에 복잡한 로직의 데이터 요청 시 Query문이 길게 작성되는 문제 식별
