@@ -11,7 +11,8 @@
 ## 🌟 Description
 효율적인 학습을 위한 수강생과 강사의 소통 솔루션
 
-![6.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/0927f289-2293-49a6-a8f7-ea636cb3b7a9/5a635740-6654-47ae-b922-5073401d8765.png)
+![6](https://github.com/user-attachments/assets/99b99976-dde7-4087-bd99-9a2862d5c37f)
+
 
 ### 🏆 목적/동기
 네이버클라우드캠프 수강 중 강사와 수강생의 소통 문제, 학원의 수업 관리 문제를 직접 느끼고 개선된 학습 환경을 제공하고자 서비스를 개발하게 되었습니다.
@@ -102,16 +103,20 @@
 ## 📐 Project Design
 
 ### Architecture
-![43.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/a4811125-742f-4663-805c-71cc32c0dbeb/43.jpg)
+![43](https://github.com/user-attachments/assets/5672c8ef-2404-4137-a8d1-186c725eeac9)
+
 
 ### UseCase
-![14.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/be23b18a-ff24-4c62-b0a4-6014bbc71b15/bf48fbca-b955-4281-ab06-835f245cd36d.png)
+![14](https://github.com/user-attachments/assets/e292a837-ad97-491e-91f6-3f4b46e789c3)
+
 
 ### ERD
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/97b5ea12-8da4-4258-8701-eb2f542bd441/image.png)
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/5f53bd49-665e-40c5-855c-d21cc8a98ecc" />
+
 
 ### CI/CD
-![47.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/c4e2a226-407f-475e-97ed-47d6aa11feb7/aa9c1206-4376-482d-93a9-bfbd379c8e5e.png)
+![47](https://github.com/user-attachments/assets/d9cd5fa0-f0b3-48c5-9cc7-5cc5ad3c8e44)
+
 ---
 
 <br>
@@ -120,7 +125,8 @@
 
 ### 로그인
 
-![16.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/6bd586ff-0617-46e9-a1a2-f1cd8c2eb5f4/712199ed-b404-4e02-b6c9-e6d1b1936fec.png)
+![16](https://github.com/user-attachments/assets/40147de5-a1a7-486b-a8b1-b2675926567d)
+
 
 - JWT 인증 확인 메서드 제작 (풀스택)
     - 액세스 토큰 유효 시
@@ -144,7 +150,8 @@
 
 ### 대시보드
 
-![18.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/2124a3b1-01ba-48f7-bbf9-4a60d5f1073b/18.jpg)
+![18](https://github.com/user-attachments/assets/d77545bc-0ba1-46b5-80ac-3a6ac4f0fa85)
+
 
 - 로그인 시 마주하게 되는 페이지
 - Role-based Access Control 예외처리 (백엔드)
@@ -155,7 +162,8 @@
 
 ### 강의실
 
-![35.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/3131a1a4-82d9-4ee5-a042-6215cc9a899a/a831eaad-e561-433d-a6d9-cce96691e220.png)
+![35](https://github.com/user-attachments/assets/73a27dd7-ea09-4ecf-ac3d-65db5a95804b)
+
 
 - 이해 완료, 손 들기, 온라인의 상태 관리 기능 (풀스택)
     - 본인의 이해도 및 손 들기 상태를 Floating Action Button을 눌러 표현 (수강생)
@@ -168,7 +176,8 @@
 
 ### 질의응답 게시판
 
-![33.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/5e7175d3-7ee6-46bf-bac8-21755ede0362/29154d29-d4b8-451a-afea-66091ab499b6.png)
+![33](https://github.com/user-attachments/assets/d311a722-237a-4f6b-b649-4e45a24bc611)
+
 
 - 질의응답 CRUD 기능 구현 (백엔드)
     - RESTful API 구조 준수
@@ -181,7 +190,8 @@
 
 ### 투표
 
-![21.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/d1b027ec-9bb3-4aed-b32f-44ed8fc89e87/d747139d-4110-4a50-8f77-c6afce8cca13.png)
+![21](https://github.com/user-attachments/assets/d9b7a512-a5fb-49d2-aea8-ccf5b1702548)
+
 
 - 투표 날짜와 제목, 내용 데이터를 받아 투표 생성 (강사)
 - 투표 리스트 중 투표를 선택하여 투표 가능 (수강생)
@@ -189,7 +199,8 @@
 
 ### 커뮤니티
 
-![커뮤니티.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/b9a23272-ecb9-413a-83ce-656727ca4bf1/ad352101-80ee-4bc1-9e7f-863e9096fa18.png)
+![커뮤니티](https://github.com/user-attachments/assets/b706e081-dc5e-45ce-8c32-f686799030ce)
+
 
 - 질문, 공지사항, 피드백 등의 카테고리 구성
 - 공지사항은 최상단에 고정
@@ -198,7 +209,8 @@
 
 ### 과제
 
-![과제.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/f54096cf-290a-47c8-a2d3-9001344ced86/479e62d9-d2ee-49dd-bc42-2de638079f26.png)
+![과제](https://github.com/user-attachments/assets/1394db5c-a6c2-47c8-a393-d1a0637ab71d)
+
 
 - 진행 중, 마감 당일, 마감된 과제 확인 가능
 - 리액트 퀼 에디터로 과제 제출 가능 (수강생)
@@ -207,7 +219,8 @@
 
 ### 캘린더
 
-![23.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/4401ced6-5266-4a24-b00d-03ffac479c11/23.jpg)
+![23](https://github.com/user-attachments/assets/ebff2a7a-f078-4a53-a75f-e82fbf261202)
+
 
 - 일정 날짜와 제목, 내용 데이터를 받아 일정 생성 (강사, 매니저)
 - 수강생은 일정 조회만 가능 (수강생)
@@ -216,7 +229,8 @@
 
 ### 회원 관리
 
-![26.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/79b22035-52fd-4081-b15f-706c4970bb48/b9fc2810-eafe-4fe7-8b20-609a01595513.png)
+![26](https://github.com/user-attachments/assets/c3502c33-ddbb-4c8f-b0c9-800a30dc4046)
+
 
 - 관리자 계정만 접근 및 관리 가능
 - 아이디, 이메일 등 Key에 대한 중복 예외처리 (프론트엔드)
@@ -224,7 +238,8 @@
 
 ### 강의 및 강의실 관리
 
-![28.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/0c9bed06-d862-41fc-a619-93ac0c389fd5/b3fa56f8-e0d2-42b5-bbf9-598a0bb45153.png)
+![28](https://github.com/user-attachments/assets/52ccf367-68d6-4c95-98b5-f88e53fd3be6)
+
 
 - 관리자 계정만 접근 및 관리 가능
 - 강의실 이름, 사용중인 강의실 등에 대한 중복 예외처리 (프론트엔드)
@@ -232,7 +247,8 @@
 
 ### 채팅 기능
 
-![41.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/797dee84-193a-49cb-9f3c-7f8e0f613a99/c2024aa3-e393-4ab1-bfde-bd80bfb942d1.png)
+![41](https://github.com/user-attachments/assets/be8af7f1-d885-4cc2-8866-df771c65e9e3)
+
 
 - WebSocket으로 통신하여 실시간 채팅 구현 (풀스택)
 - Role-based Access Control 예외처리
@@ -244,7 +260,8 @@
 
 ### CI/CD 파이프라인 구성
 
-![47.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/a05b6e93-7e96-4beb-ac8b-43ad465ec3b9/789f9cbe-439f-4a26-aab6-1fe3f46c6f61/c5378918-cd7a-42ea-8286-f70056d66ed5.png)
+![47](https://github.com/user-attachments/assets/78d493d9-7c3a-4fa8-9053-dde5f05ab474)
+
 
 1. Git 코드 변경 (Git push)
 2. 젠킨스에서 Github WebHook으로 코드 변경 인식
